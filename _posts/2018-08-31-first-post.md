@@ -1,7 +1,7 @@
 ---
-title : "Wecome to My Blog
-date : 2018-08-31
-categories : Jekyll
+title: "Welcome to JY!"
+date: 2018-08-31 15:47:28 -0400
+categories: jekyll update
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title : "Wecome to My Blog
-Date : 2018-08-31
-Categories : Jekyll
+date : 2018-08-31
+categories : Jekyll
 ---
 
 

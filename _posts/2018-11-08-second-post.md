@@ -1,5 +1,7 @@
+---
 title: "[Oracle]find slow query"
 date: 2018-11-08 15:47:28 -0400
+categories: jekyll update
 ---
 
 Oracle 오래 걸리는 Query 확인하기
